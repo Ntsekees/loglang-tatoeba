@@ -68,27 +68,25 @@ h1   {
 			td {
 				height: 1em;
 			}
+			tr:nth-child(odd) {
+				background: hsl(200, 50%, 90%);
+			}
+			tr:nth-child(even) {
+				background: hsl(200, 50%, 95%);
+			}
+		}
+	}
+	.entries tbody {
+		tr {
+			cursor: pointer;
+		}
+		tr:hover {
+			outline: 2px solid #0088ff88;
+		}
+		tr.selected {
+			outline: 2px solid #0088aa88;
+			background: #aaeecc;
 		}
 	}
 }
-.entries tbody {
-	tr {
-		cursor: pointer;
-	}
-	tr:nth-child(odd) {
-		background: #0000cc0a;
-	}
-	tr:nth-child(even) {
-		background: #00cc000a;
-	}
-	tr:hover {
-		outline: 2px solid #0088ff88;
-	}
-	tr.selected {
-		outline: 2px solid #0088aa88;
-		background: #aaeecc;
-	}
-}
-.details tbody tr:nth-child(odd) {
-	background: #0000cc0a;
-} 
+
