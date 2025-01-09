@@ -42,6 +42,17 @@ h1   {
 	.trans-td {
 		width: calc(100% - 6em - 4px);
 	}
+	.eng2-td {
+		width: 40%;
+		margin-right: 4px;
+	}
+	.ctx2-td {
+		margin-right: 4px;
+		width: 20%;
+	}
+	.trans2-td {
+		width: 40%;
+	}
 	.entries, .details {
 		flex: 1;
 		display: flex;
@@ -49,7 +60,7 @@ h1   {
 		border: 2px solid hsl(220deg,50%,85%);
 		border-radius: 4px;
 		padding: 6px;
-		height: calc(100vh - 7.25em);
+		height: calc(100vh - 8.8em);
 		table {
 			flex: 1;
 			display: block;

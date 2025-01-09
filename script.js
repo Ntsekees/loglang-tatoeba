@@ -1,5 +1,7 @@
 
 var g_data = [];
+var g_language = "All";
+
 function highlight_row(row) {
 	var t = row.constructor.name;
 	console.assert(
@@ -77,16 +79,43 @@ function setup() {
 }
 function setup_2(data) {
 	g_data = data;
+	var languages = all_languages_in(data);
+	var s = "";
+	for (var l of languages) {
+		s += `<option value='${l}'>${l}</option>`;
+	}
+	document.getElementById("language-selector").innerHTML += s;
+	run();
+}
+
+function run() {
+	var prev_language = g_language;
+	g_language = document.getElementById("language-selector").value;
+	if (g_language != prev_language) {
+		if (g_language != "All") switch_display_to_single_language();
+		else switch_display_to_all_languages();
+	}
 	var content = "";
 	for (const row of g_data) {
+		var ext = "";
+		var t = "";
+		if (g_language != "All") {
+			t = "2";
+			var v = (g_language in row) ? row[g_language] : "";
+			ext = `
+							<td class="trans2-td">
+								${v}
+							</td>
+			`
+		}
 		content += `
 						<tr>
-							<td class="eng-td">
+							<td class="eng${t}-td">
 								${row["English"]}
 							</td>
-							<td class="ctx-td">
+							<td class="ctx${t}-td">
 								${row["Context"]}
-							</td>
+							</td>${ext}
 						</tr>
 		`;
 	}
@@ -99,7 +128,34 @@ function setup_2(data) {
 		};
 	}
 	document.addEventListener('keydown', handle_keydown, true);
-} 
+}
+
+function all_languages_in(data) {
+	var languages = [];
+	for (var e of data) {
+		for (var key in e) {
+			if (["English", "Context"].includes(key)) continue;
+			if (!languages.includes(key))
+				languages.push(key);
+		}
+	}
+	return languages;
+}
+
+function switch_display_to_all_languages() {
+	document.getElementById("details-div").style.display = "flex";
+	document.getElementById("trans2-div").style.display = "none";
+	document.getElementById("eng-div").className = "eng-td";
+	document.getElementById("ctx-div").className = "ctx-td";
+}
+
+function switch_display_to_single_language() {
+	document.getElementById("details-div").style.display = "none";
+	document.getElementById("trans2-div").style.display = "";
+	document.getElementById("trans2-div").innerHTML = g_language;
+	document.getElementById("eng-div").className = "eng2-td";
+	document.getElementById("ctx-div").className = "ctx2-td";
+}
 
 setup();
 

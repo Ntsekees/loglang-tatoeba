@@ -11,18 +11,30 @@
 		<div class="header">
 			<h1>­— Loglang Tatoeba —</h1>
 		</div>
+		<div style="padding-left: 1em;">
+			<label for="language"><b>Language:</b></label>
+			<select name="language" id="language-selector" onchange="run();">
+				<option value="All">All</option>
+			</select>
+		</div>
 		<div class="main">
 			<div class="entries">
 				<div class="theader">
-					<div class="eng-td">English</div>
-					<div class="ctx-td">Context</div>
+					<div class="eng-td" id="eng-div">
+						English
+					</div>
+					<div class="ctx-td" id="ctx-div">
+						Context
+					</div>
+					<div class="trans2-td" id="trans2-div" style="display: none;">
+					</div>
 				</div>
 				<table>
 					<tbody id="entries-body">
 					</tbody>
 				</table>
 			</div>
-			<div class="details">
+			<div class="details" id="details-div">
 				<div class="theader">
 					<div class="lang-td">Language</div>
 					<div class="trans-td">Translations</div>
