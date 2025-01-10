@@ -16,44 +16,44 @@ h1 {
 	padding: 0.5em;
 	align-items: flex-start;
 }
-.main .theader {
+.theader {
 	display: flex;
 	height: 1.5em;
 	padding: 0px;
 	font-size: 1rem;
 	font-weight: bold;
 }
-.main .theader div {
+.theader div {
 	padding-left: 4px;
 	padding-right: 4px;
 	background: hsl(200, 50%, 67%);
 }
-.main .eng-td {
+.eng-td {
 	width: 67%;
 	margin-right: 4px;
 }
-.main .ctx-td {
+.ctx-td {
 	width: 33%;
 }
-.main .lang-td {
+.lang-td {
 	width: 6em;
 	margin-right: 4px;
 }
-.main .trans-td {
+.trans-td {
 	width: calc(100% - 6em - 4px);
 }
-.main .eng2-td {
+.eng2-td {
 	width: 40%;
 	margin-right: 4px;
 }
-.main .ctx2-td {
+.ctx2-td {
 	margin-right: 4px;
 	width: 20%;
 }
-.main .trans2-td {
+.trans2-td {
 	width: 40%;
 }
-.main .entries, .details {
+.entries, .details {
 	flex: 1;
 	display: flex;
 	flex-direction: column;
@@ -62,38 +62,38 @@ h1 {
 	padding: 6px;
 	height: calc(100vh - 8.8em);
 }
-.main .entries, .details table {
+:is(.entries, .details) table {
 	flex: 1;
 	display: block;
 	overflow: auto;
 }
-.main .entries, .details table thead, tbody {
+:is(.entries, .details) table thead, tbody {
 	display: table;
 	width: 100%;
 }
-.main .entries, .details table th {
+:is(.entries, .details) table th {
 	position: sticky;
 	top: 0;
 	z-index: 1;
 	background: #00aacccc;
 	height: 1.5em;
 }
-.main .entries, .details table td {
+:is(.entries, .details) table td {
 	height: 1em;
 }
-.main .entries, .details table tr:nth-child(odd) {
+:is(.entries, .details) table tr:nth-child(odd) {
 	background: hsl(200, 50%, 90%);
 }
-.main .entries, .details table tr:nth-child(even) {
+:is(.entries, .details) table tr:nth-child(even) {
 	background: hsl(200, 50%, 95%);
 }
-.main .entries tbody tr {
+.entries tbody tr {
 	cursor: pointer;
 }
-.main .entries tbody tr:hover {
+.entries tbody tr:hover {
 	outline: 2px solid #0088ff88;
 }
-.main .entries tbody tr.selected {
+.entries tbody tr.selected {
 	outline: 2px solid #0088aa88;
 	background: #aaeecc;
 }
