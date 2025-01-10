@@ -101,7 +101,7 @@ function run() {
 		var t = "";
 		if (g_language != "All") {
 			t = "2";
-			var v = (g_language in row) ? row[g_language] : "";
+			var v = (g_language in row) ? fmt(row[g_language]) : "";
 			ext = `
 							<td class="trans2-td">
 								${v}
