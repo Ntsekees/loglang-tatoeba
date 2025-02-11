@@ -33,7 +33,7 @@ h1 {
 	margin-right: 4px;
 }
 .ctx-td {
-	width: 33%;
+	width: calc(33% - 4px);
 }
 .lang-td {
 	width: 6em;
