@@ -44,7 +44,7 @@
    "French": "Un est plus petit que deux.",
    "Polish": "",
    "Ukrainian": "Один є меньшим за два.",
-   "Japanese": "一は二以下です。",
+   "Japanese": "１は２より小さいです。",
    "Mandarin": "一小於二。"
  },
  {
@@ -572,7 +572,7 @@
    "French": "Toutes les pommes sur la table sont rouges.",
    "Polish": "Wszystkie jabłka na tym stole są czerwone.",
    "Ukrainian": "Усі яблука на цьому столі - червоні.",
-   "Japanese": "机にはりんごがすべて赤いです。",
+   "Japanese": "机の上のリンゴはすべて赤いです。",
    "Mandarin": "這張桌上的所有蘋果都是紅色的。"
  },
  {
@@ -788,7 +788,7 @@
    "French": "Veux-tu boire de l'eau ou du jus de pomme ?",
    "Polish": "Wolisz wodę czy sok jabłkowy?",
    "Ukrainian": "Ти хочеш пити воду чи яблучний сік?",
-   "Japanese": "水かりんごのジュースを食べたいですか？",
+   "Japanese": "水かりんごのジュースを飲みたいですか？",
    "Mandarin": "你想喝水還是蘋果汁，還是都行？"
  },
  {
@@ -812,7 +812,7 @@
    "French": "Qui a choisi quel boisson ?",
    "Polish": "Kto wybrał jaki napój?",
    "Ukrainian": "Хто обрав який напій?",
-   "Japanese": "誰がどちら飲み物を選びましたか？",
+   "Japanese": "誰がどの飲み物を選びましたか？",
    "Mandarin": "誰選了喝甚麽？"
  },
  {
@@ -836,7 +836,7 @@
    "French": "Où les toilettes sont-elles ?",
    "Polish": "Gdzie są toalety?",
    "Ukrainian": "Де туалети?",
-   "Japanese": "洗面所がどこありますか？",
+   "Japanese": "トイレはどこありますか？",
    "Mandarin": "厠所在哪？"
  },
  {
@@ -892,7 +892,7 @@
    "Context": "",
    "Predilog": "",
    "Xorlo Lojban": "",
-   "Toaq Delta": "",
+   "Toaq Delta": "Ꝡé chum chuq jí hóa bï, kası hóa da.",
    "New Ithkuil": "Osvakcarrunoë etxuliwá lu.",
    "Loglan": "",
    "Xextan": "u soi katqba o getxí de ni.",
@@ -908,7 +908,7 @@
    "French": "Ce sont des noix que je suis en train de manger.",
    "Polish": "Jem orzechy.",
    "Ukrainian": "Горіхи їм я.",
-   "Japanese": "果実は食べています。",
+   "Japanese": "食べているものは、ナッツです。",
    "Mandarin": "我在吃的是堅果仁。"
  },
  {
@@ -1148,7 +1148,7 @@
    "French": "William m'a dit qu'il ne savait pas.",
    "Polish": "",
    "Ukrainian": "Вільям мені сказав, що він не знає.",
-   "Japanese": "ウィリアムさんは私にしないと言いました。",
+   "Japanese": "ウィリアムさんは私に 知らないと言いました。",
    "Mandarin": ""
  },
  {
@@ -1220,7 +1220,7 @@
    "French": "Mary ne sait pas que ce George Orwell est Eric Blair.",
    "Polish": "",
    "Ukrainian": "Мері не знає, що Джордж Орвелл це Ерік Блейр.",
-   "Japanese": "メリさんはジョージ・オーワーさんがエリック・ブレーアと知りません。",
+   "Japanese": "メリさんはジョージ・オーウェルさんがエリック・ブレアと知りません。",
    "Mandarin": "瑪麗不知道喬治·奧威爾本名為埃里克·布萊爾。"
  },
  {
@@ -1292,7 +1292,7 @@
    "French": "Je trouve drôle qu'il danse.",
    "Polish": "",
    "Ukrainian": "Мені смішно, що він танцює.",
-   "Japanese": "私は彼の踊っているのが可笑しいです。",
+   "Japanese": "私は、彼が躍っているのがおかしいと思います。",
    "Mandarin": "他一跳舞就太搞笑了。"
  },
  {
