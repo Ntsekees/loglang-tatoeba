@@ -17,6 +17,6 @@ is the joint work of the following contributors:
 * @yuorb
 * A couple anonymous contributors
 
-is provided under the Creative Commons Attribution 4.0 (“CC BY 4.0”)  International license located at [`licenses/CC BY 4.0.txt`](https://github.com/Ntsekees/loglang-tatoeba/blob/main/licenses/CC0%20BY%204.0.txt).
+is provided under the Creative Commons Attribution 4.0 (“CC BY 4.0”)  International license located at [`licenses/CC BY 4.0.txt`](https://github.com/Ntsekees/loglang-tatoeba/blob/main/licenses/CC%20BY%204.0.txt).
 
 
