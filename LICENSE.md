@@ -7,7 +7,7 @@ The following files:
 are provided under the Creative Commons Public Domain Dedication 1.0 (“CC Zero”) International license located at [`licenses/CC0 1.0.txt`](https://github.com/Ntsekees/loglang-tatoeba/blob/main/licenses/CC0%201.0.txt).
 
 The following file:
-* `data.csv`
+* `data.json`
 
 is the joint work of the following contributors:
 * @Ntsekees
