@@ -611,7 +611,7 @@
 - English: What are you doing?
   Context: You are one in number.
   Predilog: ''
-  Xorlo Lojban: .i do ca'o .ukte ma
+  Xorlo Lojban: .i do ca'o zukte ma
   Toaq Delta: Chụmtao súq hí móq?
   New Ithkuil: Mmaxinļa su?
   Loglan: ''
@@ -664,7 +664,7 @@
   Loglan: ''
   Xextan: ''
   Eberban: ''
-  Nahaıwa: ''
+  Nahaıwa: 'Irúk.'
   Lumbe: ''
   Yaıgawe: ''
   Bawkalm: ''
@@ -702,13 +702,15 @@
 - English: Sleeping is all I want to do now.
   Context: ''
   Predilog: ''
-  Xorlo Lojban: ''
-  Toaq Delta: ''
+  Xorlo Lojban: |-
+    .i mi kaidji lo po'o ka sipna
+    .i lo ka sipna cu .olkai lo ka mi djica ce'u
+  Toaq Delta: Iqshao jí tó, lä nuo.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
   Eberban: ''
-  Nahaıwa: ''
+  Nahaıwa: Iscunıŋıwá kʼalı̋.
   Lumbe: ''
   Yaıgawe: ''
   Bawkalm: ''
