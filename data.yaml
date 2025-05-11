@@ -246,8 +246,7 @@
   Latejami: ''
   French: 'Si tu avais un chien, tu devrais le nourrir tous les jours.'
 - English: >-
-    If everyone is ready ⸨for departing⸩ then let's depart now, else let's wait
-    5 minutes.
+    If everyone is ready ⸨for departing⸩ then let's depart now, else let's wait 5 minutes.
   Context: ''
   Predilog: ''
   Xorlo Lojban: >-
@@ -1252,9 +1251,9 @@
   Mandarin: ''
 - English: He ⸨exophora⸩ dances funnily ⸨in a manner funny to me⸩.
   Context: ''
-  Predilog: ''
-  Xorlo Lojban: ''
-  Toaq Delta: ''
+  Predilog: wakosa [∃e wogika e [∃x bigehi x ∧ heramo x] ∧ ∃y lukayu y ∧ zodala l e]
+  Xorlo Lojban: .i ti'oi prenu cu dansu poi'a xajmi be mi
+  Toaq Delta: 'Marao ké poq lûaı.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
