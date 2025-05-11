@@ -73,9 +73,9 @@ function update_details(row) {
 	document.getElementById("details-body").innerHTML = content;
 }
 function setup() {
-	fetch('./data.json')
-    .then((response) => response.json())
-    .then((json) => setup_2(json))
+	fetch('./data.yaml')
+    .then((response) => response.text())
+    .then((yaml) => setup_2(jsyaml.load(yaml)))
 }
 function setup_2(data) {
 	g_data = data;
