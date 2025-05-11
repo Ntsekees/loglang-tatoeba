@@ -245,19 +245,15 @@
   Xorban: ''
   Latejami: ''
   French: 'Si tu avais un chien, tu devrais le nourrir tous les jours.'
-- English: >-
-    If everyone is ready ⸨for departing⸩ then let's depart now, else let's wait 5 minutes.
+- English: If everyone is ready ⸨for departing⸩ then let's depart now, else let's wait 5 minutes.
   Context: ''
   Predilog: ''
-  Xorlo Lojban: >-
-    .i ko'oi lo du'u ro prenu cu bredi cu .ifle lo du'u ma'a nau cliva ti kei lo
-    du'u ma'a denpa ze'a lo mentu be li mu
+  Xorlo Lojban: .i ko'oi lo du'u ro prenu cu bredi cu .ifle lo du'u ma'a nau cliva ti kei lo du'u ma'a denpa ze'a lo mentu be li mu
   Toaq Delta: ''
   New Ithkuil: ''
   Loglan: ''
   Xextan: >-
-    i xau põ bli suani xengot zoi, fio na xengot, je xau nogu, fio qde nau pei
-    xaltep. 
+    i xau põ bli suani xengot zoi, fio na xengot, je xau nogu, fio qde nau pei xaltep. 
   Eberban: ''
   Nahaıwa: ''
   Lumbe: ''
@@ -267,12 +263,10 @@
   Xorban: ''
   Latejami: ''
   Toki Pona: >-
-    jan ale li ken la mi o tawa. jan li ken ala la mi o tawa lon tenpo kama
-    lili.
+    jan ale li ken la mi o tawa. jan li ken ala la mi o tawa lon tenpo kama lili.
   French: 'Si tout le monde est prêt, partons maintenant, sinon attendons 5 minutes.'
   Polish: >-
-    Możemy już wyruszać, jeśli wszyscy są gotowi, w innym wypadku poczekamy
-    jeszcze 5 minut.
+    Możemy już wyruszać, jeśli wszyscy są gotowi, w innym wypadku poczekamy jeszcze 5 minut.
   Ukrainian: 'Якщо всі готові, вийдімо зараз, або почекаймо ще 5 хвилин.'
   Japanese: みんなは用意しましたら、今出ましょうか５分も待っていきましょうかね。
   Mandarin: 各位準備好了的話那就現在出發吧，不然再等五分鐘。
@@ -323,13 +317,11 @@
   Japanese: もし私はあなたなら、それをしませんさ。
   Mandarin: 就算我是你，我也不會這麽做。
 - English: >-
-    In this story, there are creatures ⸨species⸩ that do not exist in the real
-    world.
+    In this story, there are creatures ⸨species⸩ that do not exist in the real world.
   Context: ''
   Predilog: ''
   Xorlo Lojban: >-
-    .i mu'ai le lisri su'o da jutlei su'o poi'i mu'ai lo facmu'e no da jutlei
-    ke'a
+    .i mu'ai le lisri su'o da jutlei su'o poi'i mu'ai lo facmu'e no da jutlei ke'a
   Toaq Delta: ''
   New Ithkuil: ''
   Loglan: ''
@@ -343,9 +335,7 @@
   Xorban: ''
   Latejami: ''
   Toki Pona: toki suli ni la ijo li lon li lon toki taso.
-  French: >-
-    Dans cette histoire, il y a des créatures qui n'existent pas dans le monde
-    réel.
+  French: Dans cette histoire, il y a des créatures qui n'existent pas dans le monde réel.
   Polish: W tej opowieści są stworzenia które nie istnieją w prawdziwym świecie.
   Ukrainian: В цій історії є створіння які не існують в дійсності.
   Japanese: あそこの小説には、実世界にいない生物があります。
@@ -754,8 +744,7 @@
   Japanese: あなたたち二人へ、何を食べたいですか？
   Mandarin: 你們兩個分別想吃甚麽？
 - English: >-
-    Do you want to drink water or apple juice? ⸨Alternation question, more than
-    one option can be selected⸩
+    Do you want to drink water or apple juice? ⸨Alternation question, more than one option can be selected⸩
   Context: ''
   Predilog: ''
   Xorlo Lojban: .i do djica lo du'u do pinxe su'o djacu ji su'o plise jisra
