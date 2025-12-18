@@ -817,7 +817,7 @@
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: |-
-    Chua hí étushı mea hó móq.
+    Chua hí étushı mea hó móq?
     Túshı mea hó nä, tua dua súq jí, ꝡä chua hí zé bâ.
   New Ithkuil: 'Ňaxuřtoalwunļ: mma wadnéi ňüxadřa?'
   Loglan: ''
@@ -869,7 +869,7 @@
   Context: ''
   Predilog: ''
   Xorlo Lojban: .i pu jaurcarvi ze'a ma
-  Toaq Delta: Pu ruqshua dûo hí móq.
+  Toaq Delta: Pu ruqshua dûo hí móq?
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -884,8 +884,10 @@
 - English: It is nuts ⸨kernels⸩ that I am eating.
   Context: ''
   Predilog: ''
-  Xorlo Lojban: ''
-  Toaq Delta: 'Ꝡé chum chuq jí hóa bï, kası hóa da.'
+  Xorlo Lojban: '.i mi ca'o citka lo kau narge'
+  Toaq Delta: |-
+    'Chụmchuq jí kú sá kası da.'
+    'Ꝡé chum chuq jí hóa bï, kası hóa da.'
   New Ithkuil: Osvakcarrunoë etxuliwá lu.
   Loglan: ''
   Xextan: i u soi katqba o getxí de ni.
