@@ -319,12 +319,12 @@
   Japanese: もし私はあなたなら、それをしませんさ。
   Mandarin: 就算我是你，我也不會這麽做。
 - English: >-
-    In this story, there are creatures ⸨species⸩ that do not exist in the real world.
-  Context: ''
+    In the story, there are creatures ⸨species⸩ that do not exist in the real world.
+  Context: 'The story was mentioned in the previous sentence.'
   Predilog: ''
   Xorlo Lojban: >-
     .i mu'ai le lisri su'o da jutlei su'o poi'i mu'ai lo facmu'e no da jutlei ke'a
-  Toaq Delta: ''
+  Toaq Delta: Jîaqjuna pó lúa nä, mıerıoq sá soelı sá, ꝡë nîjıaqjuna nä, mıerıoq sía hóa da.
   New Ithkuil: ''
   Loglan: ''
   Xextan: i sku to skebuk a xta kẽ no zat e zattut qet.
@@ -683,7 +683,7 @@
   Context: I am answering a question like ⟪who made this?⟫.
   Predilog: ''
   Xorlo Lojban: .i mi kau go'i
-  Toaq Delta: Tao kê kú jí da.
+  Toaq Delta: Pu tao hao kú jí da.
   New Ithkuil: Waelëulwá.
   Loglan: ''
   Xextan: i o soi ni u zuk ti.
@@ -725,11 +725,13 @@
   Ukrainian: ''
   Japanese: ''
   Mandarin: 我現在只想睡覺。
-- English: 'To both of you ⸨vocative⸩, what do you ⸨individually⸩ want to eat?'
-  Context: ''
+- English: 'To both of you ⸨vocative⸩, what ⸨food kind⸩ do you ⸨individually⸩ want to eat?'
+  Context: 'You already know what kind of food is available.'
   Predilog: ''
-  Xorlo Lojban: .i doi ro lo re do do djica lo du'u do citka ma
-  Toaq Delta: ''
+  Xorlo Lojban: |-
+    .i doi ro lo re do do djica lo du'u do citka lo mo
+    .i .e'o ro do xusra lo du'u ri djica lo du'u ri citka lo mo kau
+  Toaq Delta: Iqshao chuq bâq hıa étu mea súq móq?
   New Ithkuil: Su’isë mmoë etxulülzéi suya’i?
   Loglan: ''
   Xextan: 'i voi duo, ja vol vo txi e ka?'
