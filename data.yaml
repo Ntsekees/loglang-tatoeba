@@ -1210,7 +1210,7 @@
   Mandarin: 威廉告訴我「我不知道」。
 - English: Lee's name is written “李”.
   Context: ''
-  Notes: Quoting a written symbol.
+  Notes: Sound-based name, quoting a written symbol.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1348,6 +1348,7 @@
   Mandarin: 他一跳舞就太搞笑了。
 - English: We ⸨me and the others⸩ tried to open the door without success.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: .i mi'a pu troci je fliba lo ka kargau le vorme
   Toaq Delta: ''
@@ -1370,6 +1371,7 @@
   Mandarin: 我們嘗試開門，但沒有成功。
 - English: We differ with one another in where we think James intends to go.
   Context: ''
+  Notes: 'Reciprocity, infinitive subclauses, avoiding shadowing of bound variables, sound-based foreign proper names.'
   Predilog: ''
   Xorlo Lojban: >-
     .i mi'a ficysi'u lo ka ce'u goi ko'a ma kau goi ko'e zo'u ko'a jinvi lo du'u
@@ -1403,6 +1405,7 @@
   Mandarin: 我們對詹姆斯的去向有着不同的看法。
 - English: We ⸨me and the others⸩ handed the object to one another ⸨chainwise⸩.
   Context: ''
+  Notes: Subtypes of reciprocity.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1427,6 +1430,7 @@
     The mother and her offsprings are calling at each other ⸨she call them and
     they call her⸩. / The mother is calling its offsprings and vice versa.
   Context: ''
+  Notes: Subtypes of reciprocity.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1449,6 +1453,7 @@
   Mandarin: 母親以及其子女彼此呼喚對方。
 - English: The cat's fur is black and white.
   Context: ''
+  Notes: '⟪ADJ and ADJ⟫ when each adjective only applies to part of the described thing.'
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1473,6 +1478,7 @@
     All those who have a mobile phone with them must turn it off. ⸨Command⸩ ⧸
     Each of you, turn off any mobile phone you have with you.
   Context: ''
+  Notes: Vocative, distibutive speech act.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1499,6 +1505,7 @@
   Mandarin: 攜帶移動電話者須關機。
 - English: 'In case it rains, take this umbrella with you.'
   Context: ''
+  Notes: Expressing motive for a speech act.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1521,6 +1528,7 @@
   Mandarin: 下雨的話，就帶上這把傘吧。
 - English: 'In case you''didn''t know, we depart tomorrow.'
   Context: ''
+  Notes: Expressing motive for a speech act.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1543,6 +1551,7 @@
   Mandarin: 以防你不知道，我們明天就離開。
 - English: 'Don''t leave the door open, otherwise flies may enter ⸨the house⸩.'
   Context: ''
+  Notes: Expressing motive for a speech act.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1565,6 +1574,7 @@
   Mandarin: 別讓門開著，不然蒼蠅就要進來了。
 - English: I can help you if you want. ⸨Disinterested offer⸩ / I offer you my help.
   Context: ''
+  Notes: Speech acts.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1587,6 +1597,7 @@
   Mandarin: 你需要的話我可以幫你/我願意向你提供幫助。
 - English: 'Do you want to play with me? ⸨Mild request, no grudge if refused⸩'
   Context: ''
+  Notes: Speech act, semantic issue of sayig ⟪do you want…?⟫ when the wanting would likely only occur as a consequence of hearing the offer.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1609,6 +1620,7 @@
   Mandarin: 你想不想和我玩？
 - English: I hereby promise to help you to do it. ⸨Exophoric “it”⸩
   Context: ''
+  Notes: Speech acts.
   Predilog: ''
   Xorlo Lojban: .i nu'e do mi ba sidju do le co'e
   Toaq Delta: ''
@@ -1631,6 +1643,7 @@
   Mandarin: 我承諾為你實現。
 - English: How old are you?
   Context: ''
+  Notes: Content question, age of people or animals.
   Predilog: ''
   Xorlo Lojban: .i ma jbetei do
   Toaq Delta: ''
@@ -1653,6 +1666,7 @@
   Mandarin: 你多大了？
 - English: I am twenty four years old. ⸨Between 24 and 25.⸩
   Context: ''
+  Notes: Age of people or animals, range of measurement uncertainty.
   Predilog: ''
   Xorlo Lojban: .i mi se jbetei lo nanca be li re vo pi xo'e
   Toaq Delta: ''
@@ -1675,6 +1689,7 @@
   Mandarin: 我二十四五歲了。
 - English: This one ⸨which I am pointing to⸩ weights between 1.25 and 1.50 kg.
   Context: ''
+  Notes: Range of measurement uncertainty.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
