@@ -1712,6 +1712,7 @@
   Mandarin: 這個重量在 1.25 到 1.50 公斤之間。
 - English: It seems I've eaten too much.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1734,6 +1735,7 @@
   Mandarin: 似乎我吃太多了。
 - English: This ⸨which I'm pointing to⸩ is hard like a rock.
   Context: ''
+  Notes: 'Pointing demonstrative, expressing analogy.'
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1756,6 +1758,7 @@
   Mandarin: 這個硬得像石頭。
 - English: She's (like) a night owl ⸨metaphorically⸩.
   Context: ''
+  Notes: Metaphor.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1778,6 +1781,7 @@
   Mandarin: 她好似貓頭鷹。/她是夜貓子。
 - English: 'He ⸨animate topic, subject of the preceding sentence⸩ was hit on the head.'
   Context: ''
+  Notes: Expressing locus of contact.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1802,6 +1806,7 @@
     I have come to know this ⸨information⸩ only yesterday. ⸨Later than
     expectable by the addressee.⸩
   Context: ''
+  Note: ⟪only⟫ as an aspect.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1824,6 +1829,7 @@
   Mandarin: 我昨天才知道這件事。
 - English: There are only two rooms.
   Context: ''
+  Notes: ⟪only⟫ as expected inferiority with respect to expectations.
   Predilog: ''
   Xorlo Lojban: .i so'u re da kumfa
   Toaq Delta: ''
@@ -1848,6 +1854,7 @@
     There are exactly two deers ⸨no less, no more⸩ in the meadow. ⸨Exophoric
     ⟪the⟫.⸩
   Context: ''
+  Notes: Exact count.
   Predilog: ''
   Xorlo Lojban: .i re mirli cu zvati le sasfoi
   Toaq Delta: |-
@@ -1874,6 +1881,7 @@
   Mandarin: 草地上正好有兩隻鹿。
 - English: The quick brown fox jumps over the lazy dog.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1896,6 +1904,7 @@
   Mandarin: 這隻敏捷的棕色狐狸跳過了那隻懶狗。
 - English: Pee into the pot.
   Context: ''
+  Notes: Expressing the target destination of the (possibly implicit) direct object.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1918,6 +1927,7 @@
   Mandarin: 尿到鍋里。
 - English: Transport them one at a time.
   Context: ''
+  Note: ⟪NUMBER at a time⟫.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1940,6 +1950,7 @@
   Mandarin: 一次運一個​​。
 - English: 'Wherever I go, I keep this on me.'
   Context: Pointing to the thing.
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1964,6 +1975,7 @@
     The problem was easier to solve than I thought. ⧸ I overestimated the
     difficulty of the problem.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1984,8 +1996,9 @@
   Ukrainian: ''
   Japanese: ''
   Mandarin: 這個問題比我想象的要容易解決。/我高估了問題的難度。
-- English: This sentence ⸨the one I'm uttering now⸩ is false.
+- English: This sentence ⸨the one I'm uttering now⸩ is false ⸨its meaning is false⸩.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2008,6 +2021,7 @@
   Mandarin: 此句真值為假。
 - English: The mountain ⸨the contextual one⸩ is visible through this window.
   Context: ''
+  Notes: ⟪through⟫ without movement.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2030,6 +2044,7 @@
   Mandarin: 透過這扇窗戶可以看到山。
 - English: 'In the video, I greet you but you don''t hear me.'
   Context: ''
+  Notes: Frame-setting, evidentiality, using speech act verbs descriptively and not performatively.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2052,6 +2067,7 @@
   Mandarin: 錄像所示，我向你打招呼，但你沒有聽到。
 - English: I saw a fox on ⸨through⸩ the videocamera.
   Context: I am looking at a screen connected to a videocamera.
+  Notes: Indirect perception through a data-relaying sensory system.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2076,6 +2092,7 @@
     These two ones are each looking at themselves in the mirror. ⸨Each one looks
     at their self.⸩
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2098,6 +2115,7 @@
   Mandarin: 這兩個人各自看着鏡子里的自己。
 - English: The person looked at me as if I were an alien.
   Context: ''
+  Notes: ⟪as if⟫.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2120,6 +2138,7 @@
   Mandarin: 那個人盯着我，好像我是外星人似的。
 - English: You are taller than me.
   Context: ''
+  Notes: Superlative gradation.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2142,6 +2161,7 @@
   Mandarin: 你比我高。
 - English: You are taller than me by 2 centimeters.
   Context: ''
+  Notes: Superlative gradation with measure of difference.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2164,6 +2184,7 @@
   Mandarin: 你比我高2厘米。
 - English: You are the second tallest of us.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2186,6 +2207,7 @@
   Mandarin: 你是我们当中第二高的人。
 - English: You ⸨who I am pointing to⸩! Come here.
   Context: ''
+  Notes: Demonstrative ⟪you⟫, command.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2208,6 +2230,7 @@
   Mandarin: 你！過來。
 - English: This butterfly belongs to the species Gonepteryx rhamni.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2230,6 +2253,7 @@
   Mandarin: 這隻蝴蝶屬於鉤粉蝶（Gonepteryx rhamni）。
 - English: Alexander the Great was son of Philip Ⅱ of Macedon.
   Context: ''
+  Notes: Complex foreign proper names.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2252,6 +2276,7 @@
   Mandarin: 亞歷山大大帝是馬其頓國王腓力二世的兒子。
 - English: We're moving at ⸨an average speed of⸩ 30 km/h ⸨relatively to the ground⸩.
   Context: ''
+  Notes: Expressing speed numerically.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2274,6 +2299,7 @@
   Mandarin: 我們正以每30公里一小時的平均速度移動。
 - English: It is rotating at high speed.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2296,6 +2322,7 @@
   Mandarin: 它正在高速旋轉。
 - English: ⸨The view of⸩ the sun is touching the horizon.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2318,6 +2345,7 @@
   Mandarin: 眼中的太陽正觸及地平線。
 - English: The river is deepest in its middle ⸨section-wise⸩.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2340,6 +2368,7 @@
   Mandarin: 中段是這條河最深的地方。
 - English: The path turns to the left shortly after ⸨crossing⸩ the river.
   Context: ''
+  Notes: Spatial use of change words for describing an object through the lense of an imaginary journey.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2362,6 +2391,7 @@
   Mandarin: 過河後不久，小路就向左轉。
 - English: How did you get there? How long did it take you?
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -2386,6 +2416,7 @@
     For us who are on the Earth ⸨in our frame of reference⸩, it does not spin,
     but relatively to the solar system, the Earth does spin.
   Context: ''
+  Notes: Relativizing motion explicitly.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
