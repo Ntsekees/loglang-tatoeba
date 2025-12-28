@@ -194,6 +194,7 @@
   Mandarin: 可能明天會下雨。
 - English: ⸨I intend that⸩ if it rains tomorrow I will ⸨then⸩ stay home.
   Context: ''
+  Notes: Modality, condition.
   Predilog: ''
   Xorlo Lojban: .i .ai ca lo bavlamdei va'o lo du'u jaurcarvi zo'u mi zvasta lo zdani be mi
   Toaq Delta: 'Taoshao jí, ꝡä râo jíachaq nä shê, ꝡä ruqshua, nä tıshue jí búe jî da.'
@@ -216,6 +217,7 @@
   Mandarin: 明天下雨的話，我會呆在家裏。
 - English: If it had rained yesterday ⸨which is not the case⸩ I would have stayed home.
   Context: ''
+  Notes: Modality, condition, counterfactual.
   Predilog: ''
   Xorlo Lojban: .i ca lo prulamdei va'o lo du'u da'i jaurcarvi zo'u mi zvasta lo zdani be mi
   Toaq Delta: 'Râo púchaq nä âo, ꝡä ruqshua, nä tıshue jí búe jî da.'
@@ -238,6 +240,7 @@
   Mandarin: 昨天下雨的話，我會呆在家裏吧。
 - English: 'If you had a dog, you would have to feed it everyday.'
   Context: ''
+  Notes: Modality, condition, counterfactual, donkey anaphora.
   Predilog: ''
   Xorlo Lojban: .i va'o lo du'u do rirni lo gerku zo'u do bilga lo ka ctigau ri ca ro djedi
   Toaq Delta: 'Shê, ꝡä pao súq báq kune, nä duaı súq, lä haqdo râo tú chaq já hó sá.'
@@ -255,6 +258,7 @@
   French: 'Si tu avais un chien, tu devrais le nourrir tous les jours.'
 - English: If everyone is ready ⸨for departing⸩ then let's depart now, else let's wait 5 minutes.
   Context: ''
+  Notes: Modality, ternary if-then-else condition.
   Predilog: ''
   Xorlo Lojban: .i ko'oi lo du'u ro prenu cu bredi cu .ifle lo du'u ma'a nau cliva ti kei lo du'u ma'a denpa ze'a lo mentu be li mu
   Toaq Delta: |-
@@ -282,6 +286,7 @@
   Mandarin: 各位準備好了的話那就現在出發吧，不然再等五分鐘。
 - English: There is a white dog. It is asleep.
   Context: ''
+  Notes: Presentational sentence, discourse-level anaphora.
   Predilog: ''
   Xorlo Lojban: .i su'o da blabi je gerku .i ri sipna
   Toaq Delta: |-
@@ -306,6 +311,7 @@
   Mandarin: 有一隻白狗，睡着了。
 - English: If I were you ⸨i.e. in your stead⸩ I would not do it.
   Context: ''
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: .i va'o lo du'u mi lifri lo'au se lifri be do kei noi jitfa zo'u mi na zukte zo'e
   Toaq Delta: Ké, ꝡë lıe súq hóa, nä âo, ꝡä lıe jí hóa, nä bu tao hao jí da.
@@ -329,6 +335,7 @@
 - English: >-
     In the story, there are creatures ⸨species⸩ that do not exist in the real world.
   Context: 'The story was mentioned in the previous sentence.'
+  Notes: Kinds, modality, worlds, comparing worlds.
   Predilog: ''
   Xorlo Lojban: >-
     .i mu'ai le lisri su'o da jutlei su'o poi'i mu'ai lo facmu'e no da jutlei ke'a
@@ -352,6 +359,7 @@
   Mandarin: 這個故事有不存在於現實的生物。
 - English: The ocean is warm in the equator ⸨of the Earth⸩.
   Context: ''
+  Notes: World restriction, ‘spatial tenses’.
   Predilog: ''
   Xorlo Lojban: .i loi xamsi cu glare bu'u lo tropika be ri
   Toaq Delta: ''
@@ -374,6 +382,7 @@
   Mandarin: 赤道處的海水普遍溫暖。
 - English: Dolphins are ⸨a kind of⸩ mammals. ⸨By definition.⸩
   Context: ''
+  Notes: Kinds.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -396,6 +405,7 @@
   Mandarin: 海豚是（一種）哺乳動物。
 - English: Birds can fly. ⸨Generalization.⸩
   Context: ''
+  Notes: Kinds, generalization, aphorism.
   Predilog: 'wakosa [gakile [a: zekupa a [b: ∃ [c: nabaca b c]]] [d: daliwe d]]'
   Xorlo Lojban: .i lo'e cipni ka'e vofli
   Toaq Delta: Deq rıofa báq shuao da.
@@ -418,6 +428,7 @@
   Mandarin: 鳥類通常能飛。
 - English: Bears are dangerous. ⸨Generalization.⸩
   Context: ''
+  Notes: Kinds, generalization, aphorism.
   Predilog: ''
   Xorlo Lojban: .i lo'e cribe cu jai ckape
   Toaq Delta: ''
@@ -440,6 +451,7 @@
   Mandarin: 熊大多危險。
 - English: Flies are very small. ⸨Generalization.⸩
   Context: ''
+  Notes: Kinds, generalization, aphorism, relative gradation.
   Predilog: ''
   Xorlo Lojban: .i lo'e sfani cu mutce lo ka calcma
   Toaq Delta: Jaq nuı báq gushoaı da.
@@ -463,6 +475,7 @@
 - English: This bird is so small! / What a small bird!
   Context: I point at the bird with a finger.
   Predilog: ''
+  Notes: ⟪so⟫ + adjective.
   Xorlo Lojban: |-
     .i ti'oi cipni cu uetce lo ka calcma
     .i ti'oi cipni cu mutce ue lo ka calcma
@@ -486,6 +499,7 @@
   Mandarin: 這隻鳥好小啊！
 - English: Horses run fast. ⸨Horses are fast when they run.⸩
   Context: ''
+  Notes: Kinds, generalization, aphorism.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -510,6 +524,7 @@
   Mandarin: 馬跑得快。
 - English: Dinosaurs are extinct.
   Context: ''
+  Notes: Kinds.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -532,6 +547,7 @@
   Mandarin: 恐龍滅絕了。
 - English: There is no cloud in the ⸨visible⸩ sky.
   Context: ''
+  Notes: World restriction.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: Tı sía puao séoq da.
@@ -554,6 +570,7 @@
   Mandarin: 天空看不到有雲。
 - English: All the apples on this table are red. ⸨Contextual “this”⸩
   Context: ''
+  Notes: Quantification, attributive adpositions.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: Kıa tú shamu tı kê toqfua da.
@@ -576,6 +593,7 @@
   Mandarin: 這張桌上的所有蘋果都是紅色的。
 - English: That's a tall tree. ⸨It is tall for a tree.⸩
   Context: I point a finger to a tree.
+  Notes: Relative gradation, gradable adjectives used attributively.
   Predilog: ''
   Xorlo Lojban: .i ta menryrajycla lo ka tricu
   Toaq Delta: Muao sheaqsao ní da.
@@ -598,6 +616,7 @@
   Mandarin: 那是一棵高大的樹。
 - English: Let's carry the table together ⸨me + you, as a request⸩.
   Context: ''
+  Notes: Hortative, collective predication.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -620,6 +639,7 @@
   Mandarin: 一起來搬桌子吧。
 - English: What are you doing?
   Context: You are one in number.
+  Notes: Content question.
   Predilog: ''
   Xorlo Lojban: .i do ca'o zukte ma
   Toaq Delta: Chụmtao súq hí móq?
@@ -642,6 +662,7 @@
   Mandarin: 你在做甚麽呢？
 - English: Are you thirsty?
   Context: You are one in number.
+  Notes: Polar question, Yes-No question.
   Predilog: ''
   Xorlo Lojban: .i xu do taske
   Toaq Delta: Ma pıekuaı súq móq?
@@ -664,6 +685,7 @@
   Mandarin: 你很渴嗎？
 - English: 'Yes, I am.'
   Context: I am answering ⟪Are you thirsty?⟫.
+  Notes: Answer to polar question.
   Predilog: ''
   Xorlo Lojban: .i go'i
   Toaq Delta: Nho.
@@ -689,6 +711,7 @@
   Mandarin: 對啊（我很渴）。
 - English: It's me who did it.
   Context: I am answering a question like ⟪who made this?⟫.
+  Note: Answer to content question, focus.
   Predilog: ''
   Xorlo Lojban: .i mi kau go'i
   Toaq Delta: Pu tao hao kú jí da.
@@ -711,6 +734,7 @@
   Mandarin: 做的人是我。
 - English: Sleeping is all I want to do now.
   Context: ''
+  Notes: Focus, relative clause.
   Predilog: ''
   Xorlo Lojban: |-
     .i mi kaidji lo po'o ka sipna
@@ -735,6 +759,7 @@
   Mandarin: 我現在只想睡覺。
 - English: 'To both of you ⸨vocative⸩, what ⸨food kind⸩ do you ⸨individually⸩ want to eat?'
   Context: 'You already know what kind of food is available.'
+  Notes: Distributive vocative, kinds, content question.
   Predilog: ''
   Xorlo Lojban: |-
     .i doi ro lo re do do djica lo du'u do citka lo mo
@@ -782,6 +807,7 @@
   Mandarin: 你想喝水還是蘋果汁，還是都行？
 - English: Who has chosen which drink ⸨kind⸩?
   Context: ''
+  Note: Multiple questions in one sentence, kinds.
   Predilog: ''
   Xorlo Lojban: .i ma cuxna mo'oi djalitki klesi
   Toaq Delta: ''
@@ -805,6 +831,7 @@
 - English: Where are the toilets?
   Context: 'I assuming the existence of toilets, even though they are not known to me.'
   Predilog: ''
+  Notes: Content question, nonspecific definiteness.
   Xorlo Lojban: .i le vimku'a cu zvati ma
   Toaq Delta: ''
   New Ithkuil: ''
@@ -826,6 +853,7 @@
   Mandarin: 厠所在哪？
 - English: How is each of them called?
   Context: They are persons.
+  Notes: Distributive speech act.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: |-
@@ -850,6 +878,7 @@
   Mandarin: 他們一個個怎麽稱呼？
 - English: How many ⸨chicken⸩ eggs remain in the box?
   Context: ''
+  Notes: Content questions, cardinality, indicating location.
   Predilog: ''
   Xorlo Lojban: |-
     .i xo daltsi za'o nenri le tanxe
@@ -879,6 +908,7 @@
   Mandarin: 盒子里還剩下多少顆鷄蛋？
 - English: How long did it rain?
   Context: ''
+  Notes: Content question, duration, tense.
   Predilog: ''
   Xorlo Lojban: .i pu jaurcarvi ze'a ma
   Toaq Delta: Pu ruqshua dûo hí móq?
@@ -895,6 +925,7 @@
   French: Combien de temps a-t-il plu ?
 - English: It is nuts ⸨kernels⸩ that I am eating.
   Context: ''
+  Notes: Focus.
   Predilog: ''
   Xorlo Lojban: .i mi ca'o citka lo kau narge
   Toaq Delta: |-
@@ -919,6 +950,7 @@
   Mandarin: 我在吃的是堅果仁。
 - English: I wonder what is in the box.
   Context: ''
+  Notes: Embedded content question.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -941,6 +973,7 @@
   Mandarin: 我好奇盒子有甚麽
 - English: 'I wonder whether Lee will be with us ⸨me, you and other associated people⸩.'
   Context: ''
+  Notes: Embedded polar question, sound-based proper name.
   Predilog: ''
   Xorlo Lojban: .i mi kucli lo du'u xu kau la .lis. ba zvakansa ma'a
   Toaq Delta: ''
@@ -965,6 +998,7 @@
   Mandarin: 我好奇小李會不會陪咱們。
 - English: Whether we ⸨me & co.⸩ will go depends on ⸨what will be⸩ the weather.
   Context: ''
+  Notes: Embedded polar question, modality.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -987,6 +1021,7 @@
   Mandarin: 我們會不會出發取決於當天天氣。
 - English: 'There is something ⸨indirect question, not a quote⸩ I want to ask you.'
   Context: You are one.
+  Notes: Scope of quantification, subordination.
   Predilog: ''
   Xorlo Lojban: .i su'o da zo'u mi djica lo du'u mi brireisku da do
   Toaq Delta: 'Sá nä shao jí, ꝡä moqkuaq jí súq hóa da.'
@@ -1009,6 +1044,7 @@
   Mandarin: 我有件事想問你。
 - English: I hereby thank you for having helped me.
   Context: You are several.
+  Notes: Performative speech act.
   Predilog: ''
   Xorlo Lojban: .i ca'e mi do ckire lo ka ba'o sidju mi
   Toaq Delta: 'Kuaq kıe jí súq, lä luı soa já jí, ka.'
@@ -1031,6 +1067,7 @@
   Mandarin: 感謝你對我的幫助。
 - English: I hereby allow you to stay here overnight.
   Context: ''
+  Notes: Speech acts.
   Predilog: ''
   Xorlo Lojban: .i ca'e mi do .e'ande lo ka zvasta ti ze'a lo bavla'i nicte
   Toaq Delta: ''
@@ -1053,6 +1090,7 @@
   Mandarin: 我准許你留下過夜。
 - English: I don't know how to swim.
   Context: ''
+  Notes: Embedded content question, indicating method.
   Predilog: 'wakosa [∄ [x: lukayu x ∧ giliya x [y: hugupi₁ₐ y]]]'
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1077,6 +1115,7 @@
   Mandarin: 我不會游泳。
 - English: 'To anybody who hears me ⸨if any⸩, respond!'
   Context: ''
+  Notes: Vocative, speech act for an audience that might not exist.
   Predilog: ''
   Xorlo Lojban: .i doi ro dau'onai tirna be zo'ei mi ko spusku
   Toaq Delta: 'Hóı tú huogaı kê jıbo, ꝡe kuqcua súq bâ!'
@@ -1101,6 +1140,7 @@
   Mandarin: 聼到我説話的人請回應。
 - English: Is there somebody? ⸨other than me⸩
   Context: ''
+  Notes: Polar question, speech act to an audience that might not exist, pitfall of ⟪somebody⟫ implicitly excluding the speaker.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1124,6 +1164,7 @@
   Mandarin: ''
 - English: William told me that he didn't know ⸨at the time he told me⸩.
   Context: ''
+  Note: Declarative subordination, relative tense, indirect quote.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1146,6 +1187,7 @@
   Mandarin: ''
 - English: William told me “I don't know”.
   Context: ''
+  Notes: Direct quote.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1168,6 +1210,7 @@
   Mandarin: 威廉告訴我「我不知道」。
 - English: Lee's name is written “李”.
   Context: ''
+  Notes: Quote.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1190,6 +1233,7 @@
   Mandarin: 小李的名字寫作「李」。
 - English: Mary doesn't know that George Orwell is Eric Blair.
   Context: ''
+  Notes: Declarative subordination, foreign sound-based proper names, semantic issue of proper names not acting as constants.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1212,6 +1256,7 @@
   Mandarin: 瑪麗不知道喬治·奧威爾本名為埃里克·布萊爾。
 - English: '⸨As for⸩ ⸨the one called⸩ Wind, I haven''t seen him/her ⸨yet⸩ today.'
   Context: ''
+  Notes: Topicality.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
@@ -1234,6 +1279,7 @@
   Mandarin: 溫德的話，我今天還沒見過他。
 - English: Iwan is twenty years old.
   Context: ''
+  Notes: Indicating age of people or animals.
   Predilog: ''
   Xorlo Lojban: .i la .iuan. cu se jbetei lo nanca be li re no
   Toaq Delta: ''
@@ -1256,6 +1302,7 @@
   Mandarin: ''
 - English: He ⸨exophora⸩ dances funnily ⸨in a manner funny to me⸩.
   Context: ''
+  Notes: Manner adverb.
   Predilog: wakosa [∃e wogika e [∃x bigehi x ∧ heramo x] ∧ ∃y lukayu y ∧ zodala y e]
   Xorlo Lojban: .i ti'oi prenu cu dansu poi'a xajmi be mi
   Toaq Delta: 'Marao ké poq lûaı.'
@@ -1278,6 +1325,7 @@
   Mandarin: 他跳（舞）的方式（我覺得）很搞笑。
 - English: It is funny ⸨to me⸩ that he ⸨exophora⸩ dances ⸨at all⸩.
   Context: He normally doesn't dance.
+  Notes: Sentential adverb.
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: ''
