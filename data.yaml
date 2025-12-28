@@ -479,7 +479,7 @@
   Xorlo Lojban: |-
     .i ti'oi cipni cu uetce lo ka calcma
     .i ti'oi cipni cu mutce ue lo ka calcma
-  Toaq Delta: ''
+  Toaq Delta: 'Nuı nı́ shuao ꝡeı!'
   New Ithkuil: Mçt waţloţjêi tala!
   Loglan: ''
   Xextan: 'i we, sai xal to txo!'
@@ -739,7 +739,7 @@
   Xorlo Lojban: |-
     .i mi kaidji lo po'o ka sipna
     .i lo ka sipna cu .olkai lo ka mi djica ce'u
-  Toaq Delta: Iqshao jí tó, lä nuo.
+  Toaq Delta: Iqshao jí tó, lä nuo já da.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -829,11 +829,11 @@
   Japanese: 誰がどの飲み物を選びましたか？
   Mandarin: 誰選了喝甚麽？
 - English: Where are the toilets?
-  Context: 'I assuming the existence of toilets, even though they are not known to me.'
+  Context: I'm assuming the existence of toilets, even though they are not known to me.
   Predilog: ''
   Notes: Content question, nonspecific definiteness.
   Xorlo Lojban: .i le vimku'a cu zvati ma
-  Toaq Delta: ''
+  Toaq Delta: 'Tı hî ké cıurıaq móq?'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -883,7 +883,9 @@
   Xorlo Lojban: |-
     .i xo daltsi za'o nenri le tanxe
     .i xo caksovda za'o nenri le tanxe
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Tı́aı, bı̈ kubo tı́opuı móq?
+    Hoaı nıe tı̂opuı túq kubo ké tıaı móq?
   New Ithkuil: |
     Hlavsklöxwasţú-hriaţlei-e’bfašaskeirrëicvasvéi?
     Ëicvëilasvéi hriaţlei-e’bfašáskei’rre wavsklöxwasţu’u.
@@ -953,7 +955,7 @@
   Notes: Embedded content question.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Duashao nıe jı́ hı́ ké tıaı da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -976,7 +978,7 @@
   Notes: Embedded polar question, sound-based proper name.
   Predilog: ''
   Xorlo Lojban: .i mi kucli lo du'u xu kau la .lis. ba zvakansa ma'a
-  Toaq Delta: ''
+  Toaq Delta: 'Duashao jı́, má jıa gaq mı́ Lı áma da.'
   New Ithkuil: |-
     Wulltáu hlasu-waelsňë'išyacva Li.
     Wulltáu ëicvala waelsňê’išye hlu Li.
@@ -1070,7 +1072,9 @@
   Notes: Speech acts.
   Predilog: ''
   Xorlo Lojban: .i ca'e mi do .e'ande lo ka zvasta ti ze'a lo bavla'i nicte
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Nuo súq nîtı râo nı́nuaq doa.
+    Shue nıtı mûorao nínuaq súq doa.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ji tuk ni vo qat zal e ti nau tu kultep.
@@ -1118,7 +1122,7 @@
   Notes: Vocative, speech act for an audience that might not exist.
   Predilog: ''
   Xorlo Lojban: .i doi ro dau'onai tirna be zo'ei mi ko spusku
-  Toaq Delta: 'Hóı tú huogaı kê jıbo, ꝡe kuqcua súq bâ!'
+  Toaq Delta: 'Hóı tú huogaı pô jı́, cuakuq súq sá bâ!'
   New Ithkuil: |-
     Áca’lui lëi allmiväni wuindái!
     Áca’lui lëi ësxixäni wuindái!
@@ -1143,7 +1147,9 @@
   Notes: Polar question, speech act to an audience that might not exist, pitfall of ⟪somebody⟫ implicitly excluding the speaker.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Ma poq sá?
+    Ma netı sá poq móq?
   New Ithkuil: |
     Allmiréu (löa)?
   Loglan: ''
@@ -1190,7 +1196,7 @@
   Notes: Direct quote.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: Pu kuq côm jí mí Ꝡeılıam mó "I don't know" teo da.
   New Ithkuil: Mal a hlu Wilyëm lü ha woţtirá li.
   Loglan: ''
   Xextan: i pa sku la Wílian ni lũ "no dun ni."
@@ -1328,7 +1334,7 @@
   Notes: Sentential adverb.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Hıaımoe jı́ kûı, ꝡá marao ké poq da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1379,7 +1385,7 @@
 
     .i mi'a ficysi'u koi'i ko'a jinvi lo du'u la .djeimyz. .aidji lo ka klama
     ko'e
-  Toaq Delta: ''
+  Toaq Delta: 'Heo áma chéq ôı, lá chı taoshao fa já mı́ Jeıme hı́ da.'
   New Ithkuil: |-
     Aelňaňëi ëivdolâ ëisyio’la yuatrófse’e hla’i Jeimz.
     Aelňaňu waslehâ ëisyio’la yuatrófse’e hla’i Jeimz.
@@ -1526,7 +1532,7 @@
   Ukrainian: ''
   Japanese: ''
   Mandarin: 下雨的話，就帶上這把傘吧。
-- English: 'In case you''didn''t know, we depart tomorrow.'
+- English: In case you didn't know, we depart tomorrow.
   Context: ''
   Notes: Expressing motive for a speech act.
   Predilog: ''
@@ -1714,7 +1720,7 @@
   Context: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Du, ꝡá naı luı duı chuq jí sá da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
