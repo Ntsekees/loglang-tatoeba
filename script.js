@@ -57,7 +57,7 @@ function update_details(row) {
 		}
 		var entry = g_data.find((e) => e["English"] == first);
 		for (var key in entry) {
-			if (["Context"].includes(key)) continue;
+			//if (["Context"].includes(key)) continue;
 			content += `
 						<tr>
 							<td class="lang-td">

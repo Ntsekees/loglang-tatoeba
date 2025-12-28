@@ -1,5 +1,6 @@
 - English: Hi! ⧸ Hello!
   Context: I am meeting somebody.
+  Notes: ''
   Predilog: ''
   Xorlo Lojban: coi
   Toaq Delta: Jadı!
@@ -22,6 +23,7 @@
   Mandarin: 你好！
 - English: 1 < 2.
   Context: ''
+  Notes: Simple numbers and mathematical relation.
   Predilog: ''
   Xorlo Lojban: .i li pa dubme'a li re
   Toaq Delta: Zıukuoı péı shı péı gu da.
@@ -44,6 +46,7 @@
   Mandarin: 一小於二。
 - English: 1 + 2 = 3.
   Context: ''
+  Notes: Simple math.
   Predilog: ''
   Xorlo Lojban: .i li pa su'i re du li ci
   Toaq Delta: 'Peı saq, ꝡé neu hóa péı shı péı gu da.'
@@ -66,6 +69,7 @@
   Mandarin: 一加二等於三。
 - English: I am not you.
   Context: You are one in number.
+  Notes: Statement of identity and negation.
   Predilog: |-
     wakosa [∀ [x: [lukayu x] ⇒ ¬ yilawu x]]
     wakosa [∀ [x: ∀ [y: [[[lukayu x] ∧ yilawu y] ⇒ x ≠ y]]]]
@@ -96,6 +100,7 @@
   Mandarin: 我不是你。/(emphatic) 我又不是你。
 - English: We ⸨me and the others⸩ are two.
   Context: ''
+  Notes: Indicating cardinality/numerosity.
   Predilog: ''
   Xorlo Lojban: .i mi'a re mei
   Toaq Delta: Gu íme.
@@ -116,8 +121,9 @@
   Ukrainian: Ми двоє.
   Japanese: 私たちは二人です。
   Mandarin: 我們有兩個人。
-- English: ⸨At some time and place in the real world⸩ it rains.
+- English: At some time and place in the real world, it rains.
   Context: ''
+  Notes: Overriding prior world/context, setting a specific replacement world/context.
   Predilog: 'wakosa [∃ [x: begunu x]]'
   Xorlo Lojban: .i mu'ai lo facmu'e cu jaurcarvi
   Toaq Delta: Nîjıaqjıe nä ruqshua.
@@ -140,6 +146,7 @@
   Mandarin: 下雨了。
 - English: It is raining.
   Context: ''
+  Notes: Simple assertion, aspect marking.
   Predilog: ''
   Xorlo Lojban: .i ca'o jaurcarvi
   Toaq Delta: Chụmruqshua da.
@@ -164,6 +171,7 @@
   Mandarin: 正在下雨。
 - English: It might rain tomorrow.
   Context: ''
+  Notes: Modality.
   Predilog: ''
   Xorlo Lojban: .i cumki fa lo du'u jaurcarvi ca lo bavlamdei
   Toaq Delta: Daı ruqshua râo jíachaq da.
