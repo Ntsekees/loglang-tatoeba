@@ -337,7 +337,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Iq sía ké cuaq mîmo Sherlock Holmes teo da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -552,7 +552,7 @@
   Themes: Kinds.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Pu shaı, ꝡá teasaora sá da.'
   New Ithkuil: Ëirçuvé wiagzye.
   Loglan: ''
   Xextan: ''
@@ -644,7 +644,7 @@
   Themes: Hortative, collective predication.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Hıe úmo tóqfua hom.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1202,7 +1202,9 @@
   Themes: Declarative subordination, relative tense, indirect quote.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Pu ruaq bụdua Ꝡéılıam nháo háo cû jı́ da.
+    Sá, nä pu ruaq cû jı́ râo hóa Ꝡéılıam, ꝡá bu dua nháo háo râo hóa da.
   New Ithkuil: Mal a hlu Wilyëm lü wóţtira thi.
   Loglan: ''
   Xextan: i pa sku la Wílian ni põ pa no dun le.
@@ -1317,7 +1319,7 @@
   Themes: Indicating age of people or animals.
   Predilog: ''
   Xorlo Lojban: .i la .iuan. cu se jbetei lo nanca be li re no
-  Toaq Delta: ''
+  Toaq Delta: 'Jıu pêa gúheı nıaq mí Iꝡaq da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1443,7 +1445,7 @@
   Themes: Subtypes of reciprocity.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Chuecheo ı́me, lá pu do já ké araı cû já da.'
   New Ithkuil: Anxwunļöhâ ëlňu.
   Loglan: ''
   Xextan: ''
@@ -1491,7 +1493,9 @@
   Themes: '⟪ADJ and ADJ⟫ when each adjective only applies to part of the described thing.'
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Bao ra kuo tú kıaq po ké kato da.
+    Bao ru kuo ké kıtı po ké kato da.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1593,7 +1597,9 @@
   Themes: Expressing motive for a speech act.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: Kuq jí ní sıe zûam, ꝡä dua súq síe da. Tıcuq íme ké râo jíachaq.
+  Toaq Delta: |-
+    Kuq jí ní sıe zûo, ꝡä dua súq síe da. Tıcuq íme ké râo jíachaq.
+    Duana, tıcuq íme ké râo jı́achaq da.
   New Ithkuil: Waţtireösahlöe aňjagödçái yuátroxbëi sëlňu.
   Loglan: ''
   Xextan: ''
@@ -1802,7 +1808,7 @@
   Themes: 'Pointing demonstrative, expressing analogy.'
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Teınoa ní nạcha báq pıo da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1894,7 +1900,7 @@
   Themes: Expressing locus of contact.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Pu bọdoka ké joqhua nhâo da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1919,7 +1925,7 @@
   Note: ⟪only⟫ as an aspect.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Sha dua jí nı́ râo shúq púchaq da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1942,7 +1948,9 @@
   Themes: ⟪only⟫ as expected inferiority with respect to expectations.
   Predilog: ''
   Xorlo Lojban: .i so'u re da kumfa
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Shụqgu túq kua da.
+    Huınu gu túq kua da.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2040,7 +2048,7 @@
   Note: ⟪NUMBER at a time⟫.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Chuecheo háo, lá hıefa súq já nạshıu já bâ.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2063,7 +2071,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'He nôeq, ꝡä tı jı́ hı́, nä heaq jí nı́ araı da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2228,7 +2236,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Chum kaqsı chôq sá nuoqshıa tú mea nı́ gu áq da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: to duo ba u vitse fo spetul.
@@ -2274,7 +2282,7 @@
   Themes: Superlative gradation.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Hạsheaqsao súq jí da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: gen vo ni laddal.
@@ -2297,7 +2305,7 @@
   Themes: Superlative gradation with measure of difference.
   Predilog: ''
   Xorlo Lojban: .i do zmadu mi lo ni rajycla ku lo centre be li re
-  Toaq Delta: ''
+  Toaq Delta: 'Ne hạsheaqsao gú pẹofue meta súq jí da.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2414,7 +2422,10 @@
   Themes: Demonstrative ⟪you⟫, command.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Hóı nı́, fa súq ôq tı jı́ bâ.
+    Hóı nı́, fana súq nígoa bâ.
+    Hóı nı́, aonam.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2598,7 +2609,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Luı fana súq hú goa châhı dûo hı́ móq?'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
