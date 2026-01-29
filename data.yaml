@@ -552,7 +552,7 @@
   Themes: Kinds.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: 'Pu shaı, ꝡá teasaora sá da.'
+  Toaq Delta: 'Jıqluı báq teasaora da.'
   New Ithkuil: Ëirçuvé wiagzye.
   Loglan: ''
   Xextan: ''
@@ -1489,13 +1489,12 @@
   Japanese: ''
   Mandarin: 母親以及其子女彼此呼喚對方。
 - English: The cat's fur is black and white.
-  Context: ''
+  Context: The cat's fur is mostly white but with black patches.
   Themes: '⟪ADJ and ADJ⟫ when each adjective only applies to part of the described thing.'
   Predilog: ''
   Xorlo Lojban: ''
   Toaq Delta: |-
-    Bao ra kuo tú kıaq po ké kato da.
-    Bao ru kuo ké kıtı po ké kato da.
+    Paq'ıq bao rú paq'ıq kuo ké kıtı po ké kato da.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
