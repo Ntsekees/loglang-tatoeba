@@ -2469,7 +2469,9 @@
   Context: ''
   Themes: Complex foreign proper names.
   Predilog: ''
-  Xorlo Lojban: .i la se cmene be zo .aléksandros. be'o poi banli pu bersa la se cmene be zo .fílip. be'o poi re moi ne la .makedoníias.
+  Xorlo Lojban: |-
+    .i la poi banli .aléksandros. pu bersa la poi re moi pe la .makedoníias. ge'u .pílip.
+    .i la se cmene be zo .aléksandros. be'o poi banli pu bersa la se cmene be zo .pílip. be'o poi re moi pe la .makedoníias.
   Toaq Delta: ''
   New Ithkuil: ''
   Loglan: ''
