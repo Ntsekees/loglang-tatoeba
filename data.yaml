@@ -169,6 +169,98 @@
   Ukrainian: Йде дощ.
   Japanese: 雨が降っています。
   Mandarin: 正在下雨。
+- English: It rained.
+  Context: ''
+  Themes: Past tense.
+  Predilog: ''
+  Xorlo Lojban: .i pu jaurcarvi
+  Toaq Delta: Pu ruqshua da.
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: I a plut.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: It has rained.
+  Context: ''
+  Themes: Retrospective aspect.
+  Predilog: ''
+  Xorlo Lojban: .i ba'o jaurcarvi
+  Toaq Delta: Luı ruqshua da.
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: I a plut.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: It is raining for the second time today.
+  Context: ''
+  Themes: Event ordinality.
+  Predilog: ''
+  Xorlo Lojban: .i ca lo cabdei re re'u jaurcarvi
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: I pleut pour la deuxième fois aujourd’hui.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: It rained twice yesterday.
+  Context: ''
+  Themes: Event cardinality.
+  Predilog: ''
+  Xorlo Lojban: .i pu ca lo prulamdei re rei jaurcarvi
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: I a plût deux fois hier.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
 - English: It might rain tomorrow.
   Context: ''
   Themes: Modality.
@@ -309,6 +401,213 @@
   Ukrainian: ''
   Japanese: ''
   Mandarin: 有一隻白狗，睡着了。
+- English: That's an apple.
+  Context: I am pointing to the apple with a finger.
+  Themes: Expressing class membership.
+  Predilog: ''
+  Xorlo Lojban: .i ta plise
+  Toaq Delta: Shamu nízı da.
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: C’est une pomme.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: I see you.
+  Context: You are one in number.
+  Themes: Transitive verb.
+  Predilog: ''
+  Xorlo Lojban: .i mi viska do
+  Toaq Delta: Kaqgaı jí súq da.
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Je te vois.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: I will give an apple to each of you.
+  Context: I am addressing you all.
+  Themes: Trivalent verb.
+  Predilog: ''
+  Xorlo Lojban: .i mi ba dunda fi ro do fe su'o plise
+  Toaq Delta: Jıa do jí tú mea súq sá shamu.
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Je vais donner une pomme à chacun de vous.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: This book is mine.
+  Context: I am pointing to the book with a finger.
+  Themes: Possession.
+  Predilog: ''
+  Xorlo Lojban: .i ti'oi cukta cu me mi moi
+  Toaq Delta: Jıbo nízı kue da.
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Ce livre est à moi.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: I ⸨habitually⸩ enjoy walking.
+  Context: ''
+  Themes: Habitual expressions.
+  Predilog: ''
+  Xorlo Lojban: ''
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: J’aime marcher.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: We ⸨me and co.⸩ walked along the river ⸨you know which one⸩.
+  Context: ''
+  Themes: Spatial adpositions.
+  Predilog: ''
+  Xorlo Lojban: ''
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Nous avons marché le long de la rivière.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: We ⸨me and others⸩ gathered under ⸨the branches of⸩ a tree.
+  Context: ''
+  Themes: Collective predicates, ‘under’ a tree.
+  Predilog: ''
+  Xorlo Lojban: ''
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Nous nous sommes rassemblés sous un arbre.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: I am on your right (direction).
+  Context: You are one in number.
+  Themes: Relative anatomical directions.
+  Predilog: ''
+  Xorlo Lojban: ''
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Je suis à ta droite.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
+- English: You made me laugh.
+  Context: You are one in number.
+  Themes: Causatives.
+  Predilog: ''
+  Xorlo Lojban: ''
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Tu m’a fait rire.
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
 - English: If I were you ⸨i.e. in your stead⸩ I would not do it.
   Context: ''
   Themes: ''
@@ -855,6 +1154,29 @@
   Ukrainian: Хто обрав який напій?
   Japanese: 誰がどの飲み物を選びましたか？
   Mandarin: 誰選了喝甚麽？
+- English: Which of you picked which box and what did they find in it?
+  Context: I am addressing all of you.
+  Themes: Donkey anaphora on an interrogative pronoun.
+  Predilog: ''
+  Xorlo Lojban: ''
+  Toaq Delta: ''
+  New Ithkuil: ''
+  Loglan: ''
+  Xextan: ''
+  Eberban: ''
+  Nahaıwa: ''
+  Lumbe: ''
+  Yaıgawe: ''
+  Bawkalm: ''
+  Gua\spi: ''
+  Xorban: ''
+  Latejami: ''
+  Toki Pona: ''
+  French: Lequel d’entre vous à pris quelle boite, et qu’a-t-il trouvé dedans ?
+  Polish: ''
+  Ukrainian: ''
+  Japanese: ''
+  Mandarin: ''
 - English: Where are the toilets?
   Context: I'm assuming the existence of toilets, even though they are not known to me.
   Predilog: ''
